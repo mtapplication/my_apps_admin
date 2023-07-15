@@ -1,6 +1,6 @@
 {
-	"apk_active": "no",
-	"ad_active": "no",
+	"apk_active": "yes",
+	"ad_active": "yes",
 	"image": "https:\/\/mtapplication.github.io\/fullkar\/ads.png",
 	"link": "pm.fullkarmv.apk"
 }
